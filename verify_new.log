@@ -1,0 +1,94 @@
+V1 tightness max abs error on span(u1,u2): 6.217248937900877e-15
+0 exp 4 5.76 none 3.507 cm 3.877 top 5.193 | cm-bracket [3.835,4.244] mid 4.206
+1 exp 4 4.91 none 2.366 cm 5.070 top 10.494 | cm-bracket [3.546,6.590] mid 5.455
+2 exp 4 4.48 none 2.754 cm 4.132 top 6.295 | cm-bracket [3.840,4.888] mid 4.744
+3 exp 4 5.17 none 2.539 cm 4.139 top 5.784 | cm-bracket [4.074,5.432] mid 5.030
+4 exp 4 3.12 none 2.496 cm 3.854 top 5.608 | cm-bracket [3.831,5.344] mid 5.027
+5 exp 4 5.71 none 3.451 cm 3.981 top 5.276 | cm-bracket [3.900,4.275] mid 4.235
+6 exp 4 2.19 none 2.211 cm 4.217 top 4.814 | cm-bracket [3.978,6.041] mid 5.540
+7 exp 4 2.88 none 2.512 cm 4.100 top 6.538 | cm-bracket [4.036,5.541] mid 5.072
+8 exp 4 4.96 none 2.901 cm 3.962 top 5.935 | cm-bracket [3.856,4.828] mid 4.620
+9 exp 4 4.87 none 2.310 cm 4.100 top 4.640 | cm-bracket [4.083,5.566] mid 5.298
+10 exp 5 2.86 none 3.100 cm 7.233 top 6.746 | cm-bracket [4.604,9.331] mid 5.934
+11 exp 5 5.59 none 3.370 cm 5.866 top 16.243 | cm-bracket [3.745,18.041] mid 5.935
+12 exp 5 3.18 none 2.823 cm 5.849 top 8.565 | cm-bracket [3.778,15.498] mid 6.325
+13 exp 5 4.37 none 2.837 cm 7.202 top 6.203 | cm-bracket [4.580,9.893] mid 6.197
+14 exp 5 2.58 none 2.550 cm 6.693 top 10.139 | cm-bracket [4.237,16.931] mid 7.160
+15 exp 5 2.49 none 2.463 cm 9.306 top 7.961 | cm-bracket [4.487,12.244] mid 7.124
+16 exp 5 3.39 none 2.940 cm 6.541 top 8.117 | cm-bracket [4.137,11.569] mid 6.333
+17 exp 5 4.37 none 3.128 cm 6.108 top 11.079 | cm-bracket [3.684,15.246] mid 6.113
+18 exp 5 2.75 none 2.437 cm 7.082 top 8.451 | cm-bracket [4.442,16.422] mid 7.368
+19 exp 5 3.68 none 2.984 cm 5.753 top 7.298 | cm-bracket [3.685,11.522] mid 6.091
+20 exp 6 1.44 none 1.872 cm 6.181 top 9.623 | cm-bracket [4.350,42.620] mid 11.604
+21 exp 6 3.44 none 3.115 cm 5.026 top 6.461 | cm-bracket [4.147,8.934] mid 7.410
+22 exp 6 5.71 none 4.272 cm 5.547 top 6.803 | cm-bracket [5.239,6.878] mid 6.578
+23 exp 6 3.88 none 2.514 cm 6.940 top 12.390 | cm-bracket [3.454,19.713] mid 9.361
+24 exp 6 4.64 none 3.948 cm 5.352 top 6.099 | cm-bracket [5.111,7.062] mid 6.758
+25 exp 6 1.58 none 1.466 cm 15.467 top 15.662 | cm-bracket [8.832,26.678] mid 18.081
+26 exp 6 3.17 none 3.193 cm 5.002 top 6.161 | cm-bracket [4.385,12.886] mid 7.459
+27 exp 6 2.98 none 2.686 cm 6.002 top 6.709 | cm-bracket [5.295,9.733] mid 8.290
+28 exp 6 3.53 none 2.939 cm 5.057 top 5.041 | cm-bracket [3.774,14.866] mid 7.717
+29 exp 6 5.18 none 3.675 cm 4.746 top 7.758 | cm-bracket [4.643,8.082] mid 7.008
+30 exp 7 4.8 none 4.132 cm 8.011 top 7.557 | cm-bracket [5.763,11.512] mid 8.029
+31 exp 7 5.45 none 4.407 cm 8.618 top 8.476 | cm-bracket [5.810,11.317] mid 7.941
+32 exp 7 4.46 none 4.271 cm 7.584 top 7.087 | cm-bracket [5.355,11.466] mid 7.874
+33 exp 7 2.32 none 2.681 cm 6.542 top 7.406 | cm-bracket [4.247,38.169] mid 9.922
+34 exp 7 5.6 none 4.365 cm 7.773 top 8.649 | cm-bracket [5.443,11.648] mid 7.939
+35 exp 7 1.63 none 2.141 cm 6.424 top 5.595 | cm-bracket [4.228,32.970] mid 11.512
+36 exp 7 4.72 none 3.466 cm 6.009 top 12.666 | cm-bracket [4.334,16.522] mid 8.917
+37 exp 7 3.17 none 3.319 cm 8.727 top 7.307 | cm-bracket [5.896,12.843] mid 8.728
+38 exp 7 5.0 none 4.235 cm 7.361 top 8.080 | cm-bracket [5.483,11.578] mid 7.998
+39 exp 7 5.56 none 4.021 cm 7.638 top 9.402 | cm-bracket [5.098,12.698] mid 8.262
+40 gauss 4 4.12 none 2.993 cm 2.678 top 325.283 | cm-bracket [2.677,216.306] mid 4.803
+41 gauss 4 3.35 none 2.078 cm 4.763 top 5.871 | cm-bracket [4.212,7.238] mid 5.870
+42 gauss 4 2.78 none 2.813 cm 3.353 top 10.285 | cm-bracket [3.232,7.287] mid 4.880
+43 gauss 4 5.88 none 2.785 cm 3.464 top 12.750 | cm-bracket [3.288,8.385] mid 4.965
+44 gauss 4 1.44 none 1.330 cm 11.668 top 11.713 | cm-bracket [7.416,33.621] mid 14.216
+45 gauss 4 5.28 none 3.003 cm 3.465 top 8.861 | cm-bracket [3.297,5.968] mid 4.662
+46 gauss 4 5.47 none 3.803 cm 4.034 top 4.144 | cm-bracket [3.984,4.075] mid 4.072
+47 gauss 4 1.31 none 1.365 cm 10.291 top 10.346 | cm-bracket [6.713,33.720] mid 14.993
+48 gauss 4 5.76 none 3.968 cm 3.968 top 4.042 | cm-bracket [3.968,4.011] mid 4.011
+49 gauss 4 1.61 none 1.288 cm 14.083 top 14.047 | cm-bracket [7.876,53.384] mid 18.433
+50 gauss 5 4.0 none 2.985 cm 7.226 top 6.139 | cm-bracket [4.020,13.872] mid 6.404
+51 gauss 5 5.3 none 3.793 cm 6.326 top 6.618 | cm-bracket [4.141,8.803] mid 5.473
+52 gauss 5 5.0 none 2.743 cm 8.683 top 6.459 | cm-bracket [3.919,14.894] mid 6.942
+53 gauss 5 1.92 none 1.342 cm 9.550 top 11.588 | cm-bracket [5.289,755.607] mid 18.659
+54 gauss 5 1.72 none 1.509 cm 17.839 top 19.900 | cm-bracket [5.604,3414.759] mid 14.711
+55 gauss 5 3.95 none 3.248 cm 6.422 top 14.930 | cm-bracket [3.910,18.487] mid 6.278
+56 gauss 5 3.75 none 2.510 cm 6.823 top 9.780 | cm-bracket [3.864,294.600] mid 7.336
+57 gauss 5 5.12 none 2.445 cm 3.959 top 17.464 | cm-bracket [2.583,295.543] mid 7.082
+58 gauss 5 3.9 none 2.756 cm 4.796 top 4.663 | cm-bracket [2.979,95.058] mid 6.589
+59 gauss 5 1.75 none 1.527 cm 19.073 top 21.068 | cm-bracket [6.167,209.967] mid 13.661
+60 gauss 6 2.81 none 2.891 cm 4.645 top 5.102 | cm-bracket [3.286,19.231] mid 7.860
+61 gauss 6 1.33 none 1.406 cm 16.250 top 16.426 | cm-bracket [5.549,810.097] mid 21.058
+62 gauss 6 5.45 none 3.999 cm 4.101 top 8.265 | cm-bracket [3.933,7.942] mid 6.762
+63 gauss 6 4.9 none 2.837 cm 6.257 top 8.184 | cm-bracket [3.638,26.134] mid 8.207
+64 gauss 6 1.12 none 1.248 cm 78.829 top 122.621 | cm-bracket [9.928,22257.975] mid 41.444
+65 gauss 6 5.05 none 3.572 cm 4.596 top 4.864 | cm-bracket [3.540,14.871] mid 7.208
+66 gauss 6 5.93 none 2.877 cm 4.784 top 6.605 | cm-bracket [4.044,83.694] mid 8.459
+67 gauss 6 2.5 none 1.771 cm 38.818 top 44.731 | cm-bracket [4.978,1902.324] mid 18.255
+68 gauss 6 1.37 none 1.387 cm 15.465 top 17.846 | cm-bracket [8.757,265.834] mid 21.992
+69 gauss 6 4.83 none 4.310 cm 5.105 top 8.134 | cm-bracket [4.741,7.701] mid 6.658
+70 gauss 7 1.76 none 1.615 cm 13.094 top 13.344 | cm-bracket [6.575,367.856] mid 19.908
+71 gauss 7 3.87 none 3.013 cm 5.740 top 13.194 | cm-bracket [3.156,45.047] mid 9.239
+72 gauss 7 2.86 none 2.673 cm 14.370 top 27.526 | cm-bracket [5.855,166.195] mid 12.576
+73 gauss 7 3.36 none 2.722 cm 9.057 top 12.621 | cm-bracket [4.279,107.636] mid 10.927
+74 gauss 7 1.82 none 1.832 cm 23.981 top 33.489 | cm-bracket [5.151,738.059] mid 19.737
+75 gauss 7 2.78 none 2.955 cm 8.685 top 9.024 | cm-bracket [3.645,42.859] mid 9.984
+76 gauss 7 2.36 none 1.621 cm 23.664 top 28.220 | cm-bracket [5.449,1563.196] mid 22.195
+77 gauss 7 4.22 none 3.664 cm 5.657 top 4.575 | cm-bracket [4.021,29.303] mid 8.457
+78 gauss 7 4.98 none 5.118 cm 7.288 top 9.460 | cm-bracket [5.196,12.167] mid 7.579
+79 gauss 7 5.36 none 4.157 cm 4.863 top 19.494 | cm-bracket [3.411,100.536] mid 8.296
+V4 equicorrelated: max rel err of G2_cm vs m_M/(1-rho): 8.826273045769994e-13
+violations: {'V1': 0, 'V2': np.int64(0), 'V3': 0, 'V4': 0, 'V5': 0}
+exp median G2 none/cm/top: 2.939 6.005 7.302 median ratio cm/none 1.9 median ratio top/cm 1.231 max ratio top/cm 2.769 median eps_cm 0.1187 max eps_cm 0.3374 median lo/g_cm 0.705 min lo/g_cm 0.482 median up/g_cm 1.542 max up/g_cm 6.895 median mid/g_cm 1.117
+gauss median G2 none/cm/top: 2.771 6.623 10.967 median ratio cm/none 2.25 median ratio top/cm 1.203 max ratio top/cm 121.487 median eps_cm 0.1474 max eps_cm 0.5273 median lo/g_cm 0.615 min lo/g_cm 0.126 median up/g_cm 5.057 max up/g_cm 282.359 median mid/g_cm 1.3
+noise 0.01 median ||E|| 0.0233 median eps 9.18e-05 median g_hat/g_top 0.9997 min g_hat/g_top 0.9146 median cert_top/g_hat 0.615 median cert_top/cert_none 1.8
+noise 0.03 median ||E|| 0.0681 median eps 6.50e-04 median g_hat/g_top 0.9983 min g_hat/g_top 0.8519 median cert_top/g_hat 0.581 median cert_top/cert_none 1.78
+noise 0.1 median ||E|| 0.219 median eps 9.34e-03 median g_hat/g_top 1.0038 min g_hat/g_top 0.4727 median cert_top/g_hat 0.482 median cert_top/cert_none 1.62
+exp min ratio cm/none 1.106 min ratio top/none 1.481 min top/(M/l2) 1.1335 median top/(M/l2) 1.4613
+gauss min ratio cm/none 0.895 min ratio top/none 1.019 min top/(M/l2) 1.0112 median top/(M/l2) 2.1386
+
+real	1m36.191s
+user	1m5.893s
+sys	0m0.116s
